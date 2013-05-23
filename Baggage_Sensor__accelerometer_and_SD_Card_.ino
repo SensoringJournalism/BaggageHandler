@@ -1,7 +1,7 @@
 /*
- BaggageHandler
+ Baggage Handler
   
- Ben Kreimer and Matt Waite | SensoringJournalism 2013
+ Ben Kreimer and Matt Waite | Sensoring Journalism 2013
   
  This code is based on the SD Card Datalogger sketch by Tom Igoe.
  
