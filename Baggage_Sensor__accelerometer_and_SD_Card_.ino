@@ -1,7 +1,13 @@
 /*
-  SD card datalogger
+ BaggageHandler
+  
+ Ben Kreimer and Matt Waite | 2013
+  
+ This code is based on the SD Card Datalogger sketch by Tom Igoe.
  
- This example shows how to log data from three analog sensors 
+ 
+ This code will log data from three analog 
+ sensors, or in our case a three axis accelerometer, 
  to an SD card using the SD library.
  	
  The circuit:
@@ -11,12 +17,6 @@
  ** MISO - pin 12
  ** CLK - pin 13
  ** CS - pin 4
- 
- created  24 Nov 2010
- modified 9 Apr 2012
- by Tom Igoe
- 
- This example code is in the public domain.
  	 
  */
 
